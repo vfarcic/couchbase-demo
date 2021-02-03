@@ -1,3 +1,4 @@
+# Generated through `cbopcfg generate admission --namespace couchbase`
 ---
 apiVersion: v1
 kind: ServiceAccount

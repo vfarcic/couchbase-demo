@@ -1,3 +1,5 @@
+# Generated through `cbopcfg generate operator --namespace couchbase`
+
 ---
 apiVersion: v1
 kind: ServiceAccount
