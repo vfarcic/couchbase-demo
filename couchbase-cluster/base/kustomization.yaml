@@ -4,3 +4,7 @@ resources:
 - secrets.yaml
 - cluster.yaml
 namespace: couchbase
+images:
+- name: couchbase/server
+  newName: couchbase/server
+  newTag: 6.6.0
