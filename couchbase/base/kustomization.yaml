@@ -5,4 +5,6 @@ resources:
 - crd.yaml
 - admission.yaml
 - operator.yaml
+- secrets.yaml
+- cluster.yaml
 namespace: couchbase
