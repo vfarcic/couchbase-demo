@@ -6,5 +6,5 @@ resources:
 - admission.yaml
 - operator.yaml
 - secrets.yaml
-# - cluster.yaml
+ - cluster.yaml
 namespace: couchbase
