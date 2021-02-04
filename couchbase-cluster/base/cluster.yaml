@@ -12,7 +12,7 @@ kind: CouchbaseCluster
 metadata:
   name: cb-example
 spec:
-  image: couchbase/server:6.5.0
+  image: couchbase/server:6.6.0
   security:
     adminSecret: couchbase-auth
   buckets:
